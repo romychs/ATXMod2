@@ -11,7 +11,7 @@ ATXMod2 для Sprinter-а
 
 Выходной ток по -5V ограничивается используемым регулятором и его площадью охлаждения, около 280мА.
 
-![image](Export/render.jpg)
+![image](Export/render.png)
 
 [Исходники](Sources)
 
